@@ -47,6 +47,12 @@
 
 ## Output:
 
+![alt text](<Screenshot 2026-03-14 173409.png>)
+
+![alt text](<Screenshot 2026-03-14 173511.png>)
+
+![alt text](<Screenshot 2026-03-14 173540.png>)
+
 ### Name:
 ### Register Number:
 
